@@ -1,4 +1,4 @@
-# materials
+# Airflow example
 
 ### Setup instructions
 1. Download and install Docker Desktop (https://www.docker.com/products/docker-desktop/)
